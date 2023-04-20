@@ -1,5 +1,6 @@
 # 💫 About Me:
-💻 I am a highly skilled frontend developer with over 2 years <br>of experience using technologies such as React.js, LitElement, <br>JavaScript, HTML5 and CSS3 to create innovative and high <br>quality software solutions. My focus is on designing attractive <br>and easy to use user interfaces that enhance the user <br>experience.<br><br>🎶Additionally to my work, I enjoy music and hiking in my <br>free time. I am passionate about what I do and always strive<br> to keep up with the latest technology trends and improve my <br>skills and knowledge in the field.<br>
+💻 I am a highly skilled frontend developer with over 2 years of experience using technologies such as React.js, LitElement, JavaScript, HTML5 and CSS3 to create innovative and high quality software solutions. My focus is on designing attractive and easy to use user interfaces that enhance the user experience.
+<br>🎶Additionally to my work, I enjoy music and hiking in my free time. I am passionate about what I do and always strive to keep up with the latest technology trends and improve my skills and knowledge in the field.
 
 
 ## 🌐 Socials:
